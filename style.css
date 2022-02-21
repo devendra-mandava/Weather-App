@@ -1,0 +1,46 @@
+      @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;400;700&display=swap');
+        *{
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body{
+        font-family: 'Poppins', sans-serif;
+        background-color: #08AEEA;
+        background-image: linear-gradient(0deg, #08AEEA 0%, #2AF598 100%);
+
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        margin: 0;
+    
+        }
+        .current-data{ 
+            
+         padding: 50px;
+         border-radius: 10px;
+         
+         
+        }
+
+          .horizontal-scrollable > .row {
+            
+            white-space: nowrap;
+            flex-wrap: nowrap;
+            overflow: scroll;
+    
+        }
+        ::-webkit-scrollbar {
+    width: 0;  /* Remove scrollbar space */
+    background: transparent;  /* Optional: just make scrollbar invisible */
+}
+        .col-4{
+             background: rgba(24, 24, 27, 0.6);
+         padding: 25px;
+         border-radius: 10px;
+         
+         border: 1px solid #eee;
+        }
+        .current-details{
+            font-size: 3rem;
+        }
