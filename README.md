@@ -10,3 +10,4 @@ Features -
 5) Can able to see next few days weather data.
 
 
+![ss](https://user-images.githubusercontent.com/61578641/154924393-b53d0aba-0053-4a35-a441-056e4660bd56.png)
