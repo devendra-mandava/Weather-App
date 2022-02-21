@@ -8,7 +8,7 @@ const currentDetails = document.getElementById('current-details');
 const currentImgDiv = document.getElementById('current-img-div');
 const futureData = document.getElementById('future-data');
 
-const api_key = ' ';
+const api_key = 'eb6aea2873abfd64f82d9e25b6cc5d79';
 
 
 
