@@ -2,6 +2,8 @@
 
 A weather application developed using OpenWeatherMap API.
 
+Check live demo [here](https://weather-app-by-dev.netlify.app/).
+
 Features -
 1) Displays the weather forecast of any location across the world.
 2) Enables us to get the current location weather details.
